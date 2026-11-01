@@ -1,0 +1,21 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Secrets
+*.pem
+.env
+.aws/
+
+# IDE
+.idea/
+.vscode/
