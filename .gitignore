@@ -1,12 +1,12 @@
 # Terraform
-.terraform/
+**/.terraform/
 *.tfstate
 *.tfstate.*
 *.tfvars
 *.tfplan
 
 # Maven
-target/
+**/target/
 
 # Logs
 *.log
